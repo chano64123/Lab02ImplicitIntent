@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="tvTitulo">Enter your details</string>
+    <string name="edtNombre">Name</string>
+    <string name="edtDireccion">Address</string>
+    <string name="edtCelular">Phone Number</string>
+    <string name="edtCorreo">E-mail</string>
+    <string name="edtPerfil">GitHub Profile (Name)</string>
+    <string name="btnGuadar">Save</string>
+    <string name="btnTomarFoto">Take Photo</string>
+    <string name="nombreInvalido">Please enter a valid First Name</string>
+    <string name="direccionInvalido">Please enter a valid Address</string>
+    <string name="numeroInvalido">Please enter a valid Number</string>
+    <string name="correoInvalido">Please enter a valid Email</string>
+    <string name="perfilInvalido">Please enter a valid Name</string>
+    <string name="tvNombre">Names:</string>
+    <string name="tvDireccion">Address:</string>
+    <string name="tvCelular">Phone Number:</string>
+    <string name="tvCorreo">Email:</string>
+    <string name="tvPerfil">GitHub Profile:</string>
+    <string name="tvTitulo1">Your Data</string>
+    <string name="sinPermisoTelefono">Please accept the call permission</string>
+    <string name="sinPermisoCamara">Por favor, acepte the camera permission</string>
+    <string name="escoger">Choose Application</string>
+    <string name="titulo">Test message</string>
+    <string name="mensaje1">Hello my Name Is</string>
+    <string name="mensaje2">, my phone number is</string>
+    <string name="mensaje3">and you can find me on GitHub as "</string>
+    <string name="mensaje4">. You can write to me at this email whenever you want. \n\n Greetings.</string>
+</resources>

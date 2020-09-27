@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intent Implicito</string>
+    <string name="tvTitulo">Ingrese sus Datos</string>
+    <string name="edtNombre">Nombres</string>
+    <string name="edtDireccion">Direccion</string>
+    <string name="edtCelular">Celular</string>
+    <string name="edtCorreo">Correo</string>
+    <string name="edtPerfil">Perfil GitHub (Nombre)</string>
+    <string name="btnGuadar">Guardar</string>
+    <string name="btnTomarFoto">Tomar Foto</string>
+    <string name="nombreInvalido">Ingrese un nombre valido</string>
+    <string name="direccionInvalido">Ingrese una Direccion valida</string>
+    <string name="numeroInvalido">Ingrese un Numero valido</string>
+    <string name="correoInvalido">Ingrese un Correo valido</string>
+    <string name="perfilInvalido">Ingrese un Perfil Valido</string>
+    <string name="tvNombre">Nombres:</string>
+    <string name="tvDireccion">Direccion:</string>
+    <string name="tvCelular">Celular:</string>
+    <string name="tvCorreo">Correo:</string>
+    <string name="tvPerfil">Perfil GitHub:</string>
+    <string name="tvTitulo1">Tus Datos</string>
+    <string name="sinPermisoTelefono">Por favor, acepte el permiso de llamada</string>
+    <string name="sinPermisoCamara">Por favor, acepte el permiso de cámara</string>
+    <string name="escoger">Elegir Aplicacion</string>
+    <string name="titulo">Mensaje de prueba</string>
+    <string name="mensaje1">Hola mi nombre es</string>
+    <string name="mensaje2">, mi numero de telefono es</string>
+    <string name="mensaje3">"y me puedes encontrar en GitHub como "</string>
+    <string name="mensaje4">. Puedes escribirme a este correo cuando desees. Saludos.</string>
+</resources>
